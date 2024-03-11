@@ -1,0 +1,44 @@
+.repos-li-cont {
+  background-color: #f8f8ff;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 15px;
+}
+.repos-img {
+  width: 60px;
+}
+.repos-h1 {
+  color: #e73959;
+  font-size: 20px;
+}
+.count-cont-1 {
+  align-self: flex-start;
+}
+.count-cont-2 {
+  display: flex;
+  align-items: center;
+}
+.count-img {
+  width: 25px;
+}
+.count-p {
+  color: #1e293b;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .repos-li-cont {
+    width: 30%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .repos-li-cont {
+    width: 20%;
+  }
+}

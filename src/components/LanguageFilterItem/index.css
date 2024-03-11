@@ -1,0 +1,17 @@
+.lang-li-cont {
+}
+.lang-btn {
+  background: transparent;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #0f172a;
+  font-size: 15px;
+  font-weight: bold;
+}
+.lang-border {
+  border: 1px solid #0284c7;
+  border-radius: 20px;
+}
